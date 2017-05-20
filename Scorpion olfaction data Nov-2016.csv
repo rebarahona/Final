@@ -1,0 +1,99 @@
+Scorpion ID,Odor source,Odor location,Arm selected,group
+pm13,scorpion predator,L,R,untreated
+pm8,scorpion predator,L,R,untreated
+pm2,scorpion predator,L,R,untreated
+pm17,scorpion predator,L,R,untreated
+pm4,scorpion predator,R,L,untreated
+pm10,scorpion predator,R,L,untreated
+pm5,scorpion predator,R,L,untreated
+pm6,scorpion predator,R,L,untreated
+pm14,scorpion predator,L,L,untreated
+pm9,scorpion predator,L,R,untreated
+pm15,scorpion predator,L,R,untreated
+pm7,scorpion predator,R,L,untreated
+pm12,scorpion predator,R,L,untreated
+pm4b,scorpion predator,R,L,untreated
+pm27b,scorpion predator,R,R,untreated
+pm40b,scorpion predator,L,L,untreated
+pm50b,scorpion predator,R,R,untreated
+pm55b,scorpion predator,R,L,untreated
+pm21b,scorpion predator,R,L,untreated
+pm10b,scorpion predator,L,R,untreated
+pm18b,scorpion predator,L,R,untreated
+pm13b,scorpion predator,L,R,untreated
+pm25b,scorpion predator,R,R,untreated
+pm41b,scorpion predator,R,L,untreated
+pm1b,scorpion predator,R,L,untreated
+pm39b,Control (marble ball),L,L,marble
+pm37b,Control (marble ball),R,R,marble
+pm36b,Control (marble ball),L,L,marble
+pm35b,Control (marble ball),R,L,marble
+pm34b,Control (marble ball),L,R,marble
+pm33b,Control (marble ball),R,L,marble
+pm32b,Control (marble ball),L,L,marble
+pm31b,Control (marble ball),R,R,marble
+pm24b,Control (marble ball),L,L,marble
+pm16b,Control (marble ball),R,L,marble
+pm15b,Control (marble ball),L,R,marble
+pm7b,Control (marble ball),R,R,marble
+pm6b,Control (marble ball),L,R,marble
+pm52b,Control (marble ball),R,L,marble
+pm20b,Control (marble ball),L,L,marble
+pm19b,Control (marble ball),R,R,marble
+pm12b,Control (marble ball),L,R,marble
+pm9b,Control (marble ball),R,R,marble
+pm44b,Control (marble ball),L,R,marble
+pm42b,Control (marble ball),R,R,marble
+pm43b,Control (marble ball),L,R,marble
+pm1_painted (control),scorpion predator,L,R,footPainted
+pm2_painted (control),scorpion predator,R,L,footPainted
+pm3_painted (control),scorpion predator,L,L,footPainted
+pm4_painted (control),scorpion predator,R,L,footPainted
+pm5_painted (control),scorpion predator,L,R,footPainted
+pm6_painted (control),scorpion predator,R,L,footPainted
+pm7_painted (control),scorpion predator,L,R,footPainted
+pm8_painted (control),scorpion predator,R,L,footPainted
+pm9_painted (control),scorpion predator,L,R,footPainted
+pm10_painted (control),scorpion predator,R,L,footPainted
+pm11_painted (control),scorpion predator,L,R,footPainted
+pm12_painted (control),scorpion predator,R,R,footPainted
+pm13_painted (control),scorpion predator,L,R,footPainted
+pm14_painted (control),scorpion predator,R,L,footPainted
+pm15_painted (control),scorpion predator,L,R,footPainted
+pm55b_painted (control),scorpion predator,R,L,footPainted
+pm21b_painted (control),scorpion predator,R,L,footPainted
+pm10b_painted (control),scorpion predator,L,R,footPainted
+pm18b_painted (control),scorpion predator,L,R,footPainted
+pm13b_painted (control),scorpion predator,L,R,footPainted
+pm16_painted (control),scorpion predator,R,L,footPainted
+pm17_painted (control),scorpion predator,R,L,footPainted
+pm18_painted (control),scorpion predator,L,R,footPainted
+pm19b_painted (control),scorpion predator,L,L,footPainted
+pm20b_painted (control),scorpion predator,R,L,footPainted
+pm21_painted (control),scorpion predator,L,R,footPainted
+pm1_painted (treatment),scorpion predator,L,R,nosePainted
+pm2_painted (treatment),scorpion predator,R,R,nosePainted
+pm3_painted (treatment),scorpion predator,L,L,nosePainted
+pm4_painted(treatment),scorpion predator,R,R,nosePainted
+pm5_painted (treatment),scorpion predator,L,R,nosePainted
+pm6_painted (treatment),scorpion predator,R,L,nosePainted
+pm7_painted (treatment),scorpion predator,L,L,nosePainted
+pm8_painted (treatment),scorpion predator,R,R,nosePainted
+pm9_painted (treatment),scorpion predator,L,L,nosePainted
+pm10_painted (treatment),scorpion predator,R,R,nosePainted
+pm11_painted (treatment),scorpion predator,L,L,nosePainted
+pm12_painted (treatment),scorpion predator,R,R,nosePainted
+pm13_painted (treatment),scorpion predator,L,L,nosePainted
+pm14_painted (treatment),scorpion predator,R,L,nosePainted
+pm15_painted (treatment),scorpion predator,L,L,nosePainted
+pm27b_painted (treatment),scorpion predator,R,R,nosePainted
+pm40b_painted (treatment),scorpion predator,L,L,nosePainted
+pm50b_painted (treatment),scorpion predator,R,R,nosePainted
+pm25b_painted (treatment),scorpion predator,R,R,nosePainted
+pm14b_painted (treatment),scorpion predator,L,R,nosePainted
+pm16_painted (treatmnet),scorpion predator,R,L,nosePainted
+pm17_painted (treatmnet),scorpion predator,R,L,nosePainted
+pm18_painted (treatmnet),scorpion predator,L,R,nosePainted
+pm30_painted (treatmnet),scorpion predator,L,R,nosePainted
+pm31_painted (treatmnet),scorpion predator,R,L,nosePainted
+pm41_painted (treatmnet),scorpion predator,L,R,nosePainted
